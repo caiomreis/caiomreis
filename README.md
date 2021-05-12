@@ -1,6 +1,6 @@
 # Hi there 👋🏽
 
-[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue)](https://www.linkedin.com/in/caio-reis-2443bb152/)
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue)](https://www.linkedin.com/in/caiohmreis/)
 
 ## I'm Caio, a junior Front-end developer
 
